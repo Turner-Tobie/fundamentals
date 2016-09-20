@@ -1,0 +1,25 @@
+body{
+	background-color: darkred;
+}
+
+.important{
+	color: white;
+}
+
+.S1{
+	color: green;
+	background: black;
+}
+
+.S1 p{
+	color: red;
+	background-color: darkgray;
+	font-family: times;
+	font-size: 50px;
+}
+
+.S1 h3{
+	color: darkred;
+	font-size: 100px;
+	font-family: sans-serif;
+}
