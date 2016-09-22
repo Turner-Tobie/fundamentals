@@ -26,12 +26,12 @@ var gradPlace = "Nowhere";
 var gradDate = "I'll get back to you";
 
 console.log("I graduated from "+ gradPlace + " on " + gradDate + ".");
-var space = " "
-var period = ". "
-var comma = ", "
+var space = " ";
+var period = ". ";
+var comma = ", ";
 
-var carMk = "Buick"
-var carMd = "Century"
-var carYr = "1996"
+var carMk = "Buick";
+var carMd = "Century";
+var carYr = "1996";
 var car = carMk + space + carMd + comma + carYr
 console.log(car)
